@@ -1,4 +1,14 @@
 %HW5
+%GB comments:
+1a 100
+1b 100
+1c 100
+1d 100
+2yeast: 100
+2worm: 100
+2bacteria: 100
+2phase: 100 
+Overall: 100
 
 % N.B. Received extension on this homework assignment
 
